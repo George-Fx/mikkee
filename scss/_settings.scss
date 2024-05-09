@@ -1,0 +1,54 @@
+.header-container {
+	max-width: 1810px;
+	width: 100%;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.footer-container {
+	max-width: 1170px;
+	width: 100%;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.why-us-container {
+	max-width: 1650px;
+	width: 100%;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.about-container {
+	max-width: 1850px;
+	width: 100%;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.action-container {
+	max-width: 1170px;
+	width: 100%;
+	padding: 0 15px;
+	margin: 0 auto;
+	position: relative;
+	height: 100%;
+}
+
+.pop-up-visibility {
+	display: block !important;
+}
+
+html {
+	width: 100%;
+	max-width: 100%;
+    overflow-x: hidden;
+    min-width: 320px;
+}
+
+body {
+	width: 100%;
+	max-width: 100%;
+    overflow-x: hidden;
+    // background-color: #0f0b0e;
+}
